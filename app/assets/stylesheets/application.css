@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+
+ .btn-position {
+  position: absolute;
+  right: auto;
+  top: auto;
+ }
+
+ .line {
+  line-height: 32px;
+  width: 450px;
+ }
